@@ -1,0 +1,6 @@
+Q2 using set try intersection and union... if intersection is present then either or one element is present 
+---- union compare with universal set as if condition satisfied then elements are present 
+
+Q3 ratio of the ingridents with the total 
+0.2   0.3 0.5 0.6  0.8
+0.25 0.35 0.5 0.55 0.75
